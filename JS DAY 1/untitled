@@ -1,0 +1,12 @@
+Hoisting 
+
+•The variable deceleration and function deceleration will move to the top of the scope.
+•Hoisting will be applicable for var variable
+only not for let and const.
+
+TDZ - temporal dead zone
+
+* when we declare the variable with let and const without us proper initialization then the variable lies in temporal dead zone until its proper initialization. 
+------------
+* Scripting means as web page runs on a script
+* js is synchronous (line by line) but can also work as asynchronous
