@@ -1,0 +1,7 @@
+Promises:
+
+1. Promises is used to handle asynchronous function in a better way than callback hell.
+2. Promise have three states (resolved, unresolved, pending).
+3. Promise have 2 keyword .then and .catch.
+4. If Promise fulfilled then it will go to .then() method and
+   If Promise is rejected then it will go to .catch() method.
